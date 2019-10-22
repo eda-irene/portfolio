@@ -6,4 +6,22 @@
     .why {
         text-align: justify;
     }
+    nav .columns {
+        width: 100% !important;
+    }
+    .simple-bar .text-right {
+        text-align: center !important;
+    }
+    .simple-bar .menu li {
+        margin-right: unset !important;
+    }
+    .simple-bar .menu li a {
+        padding-bottom: 0px;
+        font-weight: normal !important;
+        line-height: 20px !important;
+    }
+    .simple-bar .text-right {
+        text-align: center !important;
+    }
+
 }
