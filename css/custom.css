@@ -2,7 +2,8 @@
     .aboutme {
         text-align: center;
     }
-    .timeline-event p {
+    .timeline-event p,
+    .why {
         text-align: justify;
     }
 }
